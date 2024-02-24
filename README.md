@@ -1,2 +1,2 @@
 # leetcode_sync
-### This extension is used to store all submitted problem
+### This repo is used to track the submitted problems
